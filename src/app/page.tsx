@@ -12,7 +12,7 @@ const App = () => {
         <nav className="container mx-auto flex justify-between items-center">
           <a href="#" className="flex text-2xl font-bold text-indigo-600 rounded-md p-2 hover:bg-indigo-50 transition-colors">
             Shahroz Ali<span className="text-gray-800">.dev</span>
-            <img className="w-20 ml-5 border-r" src="./myAvatar.png" alt="" />
+            <img className="w-20 ml-5 border-r" src="./me.png" alt="" />
           </a>
           <ul className="flex space-x-4 md:space-x-8">
             <li>
