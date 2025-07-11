@@ -38,7 +38,7 @@ const App = () => {
       <section className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-16 md:py-24 text-center shadow-lg rounded-lg mx-4 mt-8">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl md:text-6xl font-extrabold mb-4 leading-tight">
-            Hi, I'm <span className="text-yellow-300">Shahroz Ali</span>!
+            Hi, I am <span className="text-yellow-300">Shahroz Ali</span>!
           </h1>
           <p className="text-lg md:text-xl mb-8 max-w-2xl mx-auto">
             A passionate developer, cybersecurity enthusiast, and tech blogger. I love creating innovative solutions and sharing knowledge with the community.
